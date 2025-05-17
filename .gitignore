@@ -1,2 +1,7 @@
 init_model/
-latex_pairs_20000.json
+output/
+math_info/
+latex_embeddings/
+topic_embeddings/
+discrete_data/
+paper_body/
